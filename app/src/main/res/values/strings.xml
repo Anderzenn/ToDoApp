@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ToDoApp</string>
+    <string name="app_name">To Do List</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_test">Test</string>
+    <string name="new_Note">New Note</string>
+    <string name="add_Item">Add Item</string>
 </resources>
